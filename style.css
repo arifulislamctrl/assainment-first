@@ -125,5 +125,21 @@ h4{
 .input{
     text-align: center;
     text-decoration: none;
-    margin-left: 182px;
+    margin-left: 200px;
+}
+form{
+    padding: 15px 10px;
+}
+.feedback{
+    padding: 10px;
+}
+footer{
+    background-color: burlywood;
+    margin-top: 10%;
+}
+footer h1{
+    padding: 40px;
+}
+.footer-section p{
+    color: aliceblue;
 }
