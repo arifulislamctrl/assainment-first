@@ -45,6 +45,7 @@ body{
     width: 45%;
     margin-left: 28%;
     color: rgb(240, 176, 95);
+    margin-bottom: 100px;
 }
 .donate-today{
     text-align: center;
@@ -78,6 +79,7 @@ h4{
 }
 .donate-plan{
     display: flex;
+    text-align: center;
 }
 .plan{
     width: 33.3%;
@@ -97,4 +99,31 @@ h4{
 }
 #medicine{
     background-color:rgb(218, 200, 177) ;
+}
+.contribution{
+    width: 30%;
+    margin:10% 10%;
+}
+.contribution h1{
+    line-height: 1.8;
+    font-size: 40px;
+}
+.contribution h1 p{
+    line-height: 1.4;
+}
+.contribution img{
+    width: 500px;
+    margin-top: 120px;
+}
+.placeholder{
+    display: flex;
+    margin-left: 20%;
+    background-color: wheat;
+    padding: 90px;
+    width: 50%;
+}
+.input{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 182px;
 }
