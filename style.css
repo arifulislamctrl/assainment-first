@@ -64,6 +64,7 @@ body{
 }
 #marked{
     border: 2px solid rgb(235, 143, 23);
+    background-color: rgb(228, 164, 82);
 }
 .other-amount{
     text-align: center;
