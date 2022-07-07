@@ -77,9 +77,11 @@ body{
 .other-amount hr {
     margin-bottom: 40px;
     width: 60%;
+    opacity: 0.3;
 }
 h4{
     margin-top: 30px;
+    opacity: 0.4;
 }
 .donate-plan{
     display: flex;
