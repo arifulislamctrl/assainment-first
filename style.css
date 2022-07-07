@@ -49,14 +49,16 @@ body{
 }
 .donate-today{
     text-align: center;
+    justify-content: center;
     line-height: 1.2;
 }
 .donate-amount{
     display: flex;
-    margin-left: 300px;
+    justify-content: center;
 }
 .donate-amount h1{
     text-align: center;
+    justify-content: center;
     padding: 20px;
     background-color: burlywood;
     margin: 20px;
@@ -68,6 +70,7 @@ body{
 }
 .other-amount{
     text-align: center;
+    justify-content: center;
     line-height: 1.2;
     margin-bottom: 90px;
 }
@@ -81,6 +84,7 @@ h4{
 .donate-plan{
     display: flex;
     text-align: center;
+    justify-content: center;
 }
 .plan{
     width: 33.3%;
@@ -122,25 +126,23 @@ h4{
     background-color: wheat;
     padding: 90px;
     width: 50%;
-}
-.input{
     text-align: center;
-    text-decoration: none;
-    margin-left: 200px;
+    justify-content: center;
 }
+
 form{
     padding: 15px 10px;
 }
 .feedback{
     padding: 10px;
 }
-footer{
+.footer-section{
     background-color: burlywood;
     margin-top: 10%;
 }
-footer h1{
+.footer-section h1{
     padding: 40px;
 }
-.footer-section p{
+.footer-section span{
     color: aliceblue;
 }
